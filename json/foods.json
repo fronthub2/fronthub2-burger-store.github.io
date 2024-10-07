@@ -1,0 +1,83 @@
+[
+    {
+        "id": "1",
+        "category": "бургеры",
+        "img": "images/bg1.jpg",
+        "price": 635,
+        "title": "Мясная бомба",
+        "weight": 520,
+        "quantity": 1
+    },
+    {
+        "id": "2",
+        "category": "бургеры",
+        "img": "images/bg2.jpg",
+        "price": 550,
+        "title": "Супер сырный",
+        "weight": 512,
+        "quantity": 1
+    },
+    {
+        "id": "3",
+        "category": "бургеры",
+        "img": "images/bg3.jpg",
+        "price": 639,
+        "title": "Сытный",
+        "weight": 580,
+        "quantity": 1
+    },
+    {
+        "id": "4",
+        "category": "бургеры",
+        "img": "images/bg4.jpg",
+        "price": 480,
+        "title": "Тяжелый удар",
+        "weight": 470,
+        "quantity": 1
+    },
+    {
+        "id": "5",
+        "category": "бургеры",
+        "img": "images/bg5.jpg",
+        "price": 450,
+        "title": "Вечная классика",
+        "weight": 450,
+        "quantity": 1
+    },
+    {
+        "id": "6",
+        "category": "бургеры",
+        "img": "images/bg6.jpg",
+        "price": 560,
+        "title": "Итальянский",
+        "weight": 510,
+        "quantity": 1
+    },
+    {
+        "id": "7",
+        "category": "закуски",
+        "img": "images/snack1.jpg",
+        "price": 250,
+        "title": "Начос",
+        "weight": 220,
+        "quantity": 1
+    },
+    {
+        "id": "8",
+        "category": "закуски",
+        "img": "images/snack2.jpg",
+        "price": 245,
+        "title": "Картошка фри",
+        "weight": 180,
+        "quantity": 1
+    },
+    {
+        "id": "9",
+        "category": "закуски",
+        "img": "images/snack3.jpg",
+        "price": 230,
+        "title": "Луковые кольца",
+        "weight": 160,
+        "quantity": 1
+    }
+]
